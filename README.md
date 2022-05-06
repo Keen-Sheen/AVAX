@@ -34,3 +34,8 @@ Avalanche's smart contracts platform supports both [decentralized applications (
 
 ### Designed for Finance
 * Native support for easily creating and trading digital smart assets with complex, custom rulesets.
+------------------------------------------------------------------------
+
+# Avalanche Consensus Protocol
+
+Avalanche is a DAG-optimized consensus protocol–high-throughput, parallelizable, and simple to prune. 
