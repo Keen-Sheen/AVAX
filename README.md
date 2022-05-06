@@ -14,22 +14,23 @@ Avalanche's smart contracts platform supports both [decentralized applications (
 ### Speed
 * Uses a novel consensus protocol, developed by a team of Cornell computer scientists, and is able to permanently confirm transactions in under 1 second.
 
-Scalability
-Capable of 4,500 transactions per second–an order of magnitude greater than existing blockchains.
+### Scalability
+* Capable of 4,500 transactions per second–an order of magnitude greater than existing blockchains.
 
-Security
-Ensures stronger security guarantees well-above the 51% standard of other networks.
+### Security
+* Ensures stronger security guarantees well-above the 51% standard of other networks.
 
-Flexibility
-Easily create custom blockchains and decentralized apps that contain almost any arbitrary logic.
+### Flexibility
+* Easily create custom blockchains and decentralized apps that contain almost any arbitrary logic.
 
-Sustainability
-Uses energy-efficient proof-of-stake consensus algorithm rather than proof-of-work.
+### Sustainability
+* Uses energy-efficient proof-of-stake consensus algorithm rather than proof-of-work.
 
-Smart Contract Support
-Supports the creation of Solidity smart contracts and your favorite Ethereum tools like Remix, Metamask, Truffle, and more.
+### Smart Contract Support
+* Supports the creation of Solidity smart contracts and your favorite Ethereum tools like Remix, Metamask, Truffle, and more.
 
-Private and Public Blockchains
-Create your own public or private blockchains.
+### Private and Public Blockchains
+* Create your own public or private blockchains.
 
-Designed for Finance
+### Designed for Finance
+* Native support for easily creating and trading digital smart assets with complex, custom rulesets.
