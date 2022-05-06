@@ -1,3 +1,3 @@
 # AVAX
 
-![An Image of the AVAX currency.](AVAX.png)
+![An Image of the AVAX currency.](AVAX.jpng)
