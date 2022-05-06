@@ -12,7 +12,7 @@ Avalanche's smart contracts platform supports both [decentralized applications (
 
 
 ### Speed
-**Uses a novel consensus protocol, developed by a team of Cornell computer scientists, and is able to permanently confirm transactions in under 1 second.
+* Uses a novel consensus protocol, developed by a team of Cornell computer scientists, and is able to permanently confirm transactions in under 1 second.
 
 Scalability
 Capable of 4,500 transactions per second–an order of magnitude greater than existing blockchains.
