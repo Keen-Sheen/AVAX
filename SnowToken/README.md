@@ -5,10 +5,11 @@ A fresh coating of snow tends to beautify just about any city, but some snowy de
 
 The SnowToken is built off of Avalanche and its battled tested consenses algorithem Direct Acyclic Graph (DAG). AVAX is faster, cheaper, scaleable & more secure. The communities wanted to go with AVAX because of those reasons. Built for the cold and to weather the fridiged winter storms. The SnowToken is resilant and scaleable just like the people living in the frozen tundras. The SnowToken will be a fungible token that’s ERC-20 compliant. I have launched a crowdsale that will allow people who are moving to the coldest parts of the world to convert their fiat dollars to the SnowToken.
 
+--------------------------------------------------------
+
 ## Understanding the Contract
 
-#### Instructions
-* The steps for this assignment are divided into the following subsections:
+#### The Process
 
 
 * Create the SnowToken Token Contract
@@ -25,3 +26,14 @@ The SnowToken is built off of Avalanche and its battled tested consenses algorit
 
 * Extended the Crowdsale Contract by Using OpenZeppelin
 
+----------------------------------------------------------
+
+## Execution Results
+
+After I created the smart contract, I tested the contract out on the Fuji testnet:
+
+* Network Name: Avalanche Fuji Testnet
+* New RPC URL: https://api.avax-test.network/ext/bc/C/rpc
+* Chain ID: 43113
+* Symbol: AVAX
+* Block Explorer URL: https://testnet.snowtrace.io/
