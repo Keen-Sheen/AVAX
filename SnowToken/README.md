@@ -66,5 +66,5 @@ Testnet faucet [Fuji Faucet](https://faucet.avax-test.network/)
 ## Summary
 The Fuji Testnet plays a critical role in testing and QAing dapps, smart contracts and financial products before deploying to the Mainnet. Tooling like AvalancheJS, the public API, faucet, and explorer helps to ensure that your testing and QA environment is close to Mainnet so that you can be confident when you launch on Mainnet.
 
-![]
+![Snow Trace](snowtrace_execution.png)
 
