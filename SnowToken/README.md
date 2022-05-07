@@ -28,7 +28,7 @@ The SnowToken is built off of Avalanche and its battled tested consenses algorit
 
 ----------------------------------------------------------
 
-## Execution Results
+## Fuji RPC (AVAX Testnet)
 
 After I created the smart contract, I tested the contract out on the Fuji testnet:
 
@@ -37,3 +37,10 @@ After I created the smart contract, I tested the contract out on the Fuji testne
 * Chain ID: 43113
 * Symbol: AVAX
 * Block Explorer URL: https://testnet.snowtrace.io/
+
+----------------------------------------------------------
+
+## Execution Results
+
+Next I ran the smart contract and connected my metamask wallet to the contract using the `Inject Web3` environment
+
