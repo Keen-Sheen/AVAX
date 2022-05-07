@@ -52,7 +52,7 @@ Next I ran the smart contract and connected my metamask wallet to the contract u
 
 When connected to "Injected Web3" I got a response form my metamask wallet which brought up my wallet & ballance to be able to run the smart contract. Before I could launch the contract, I needed some test AVAX from the faucet:
 
-Testnet faucet [AVAX Testnet Faucet](https://faucet.avax-test.network/)
+Testnet faucet [Fuji Faucet](https://faucet.avax-test.network/)
 
 ![Metamask](snow_metamask_execution.png)
 
