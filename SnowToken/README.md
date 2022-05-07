@@ -54,4 +54,6 @@ When connected to "Injected Web3" I got a response form my metamask wallet which
 
 Testnet faucet [AVAX Testnet Faucet](https://faucet.avax-test.network/)
 
+![Metamask](snow_metamask.png)
+
 
