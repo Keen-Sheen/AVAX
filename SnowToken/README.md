@@ -43,5 +43,5 @@ After I created the smart contract, I tested the contract out on the Fuji testne
 ## Execution Results
 
 Next I ran the smart contract and connected my metamask wallet to the contract using the `Inject Web3` environment to test the contract out.
-![Eth Remix](Inject_Web3.png)
+![Eth Remix](Injected_Web3.png)
 
