@@ -1,2 +1,2 @@
 # Snow Token
-![An image of AXAV](SnowToken.jpng)
+![An image of AXAV](SnowToken.jpg)
