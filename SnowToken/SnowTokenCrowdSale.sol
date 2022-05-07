@@ -69,4 +69,14 @@ contract SnowTokenCrowdsaleDeployer {
         // Have the `SnowTokenCrowdsaleDeployer` renounce its minter role.
         token.renounceMinter(); 
     }
+    contract ReEntrancyGuard {
+    bool internal locked;
+
+    modifier noReentrant() {
+        require(!locked, "No re-entrancy");
+        locked = true;
+        _;
+        locked = false;
+    }
+}
 }
