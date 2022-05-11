@@ -34,11 +34,13 @@ Avalanche's smart contracts platform supports both [decentralized applications (
 
 ### Designed for Finance
 * Native support for easily creating and trading digital smart assets with complex, custom rulesets.
+
 ------------------------------------------------------------------------
 
 # Avalanche Consensus Protocol
 
 Avalanche is a DAG-optimized consensus protocol–high-throughput, parallelizable, and simple to prune. 
+
 ------------------------------------------------------------------------
 
 ## Differences Between Avalanche C-Chain and Ethereum
@@ -46,6 +48,10 @@ Avalanche is a DAG-optimized consensus protocol–high-throughput, parallelizabl
 ### Atomic Transactions
 
 As a network composed of multiple blockchains, Avalanche uses *atomic transactions* to move assets between chains. Coreth modifies the Ethereum block format by adding an *ExtraData* field, which contains the atomic transactions.
+
+### Tokens on the C-Chain
+## AVAX
+AVAX plays the same role on the C-Chain that ETH does on the Ethereum Network. When you create or call a smart contract, you pay the transaction fee (gas cost) with AVAX. You can transfer AVAX between accounts and send AVAX to a smart contract using native EVM tools and libraries.
 
 ### Avalanche Native Tokens (ANTs)
 
