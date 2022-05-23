@@ -40,7 +40,8 @@ Avalanche's smart contracts platform supports both [decentralized applications (
 
 # Avalanche Consensus Protocol
 
-Avalanche is a DAG-optimized consensus protocol–high-throughput, parallelizable, and simple to prune. 
+Avalanche is a DAG-optimized consensus protocol–high-throughput, parallelizable, and simple to prune.
+[An Image of AVAX Consensus](avax_consensus.png)
 
 ------------------------------------------------------------------------
 
