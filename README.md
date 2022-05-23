@@ -1,6 +1,6 @@
 # AVAX
 
-![An Image of the AVAX currency.](AVAX.jpg)
+![An Image of the AVAX currency.](avalanche-avax-la-gi-image-1044.png)
 
 # What is AVAX?
 
