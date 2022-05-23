@@ -120,5 +120,17 @@ Ethereum made a step toward solving this problem with smart contracts. Developer
 
 Avalanche VMs (AVMs) make it easy to define a blockchain-based decentralized application. Rather than new, limited languages like Solidity, developers can write VMs in Go (other languages will be supported in the future).
 
+## Creating Your Blockchain and Virtual Machine
 
+Avalanche supports the creation of new instances of the Avalanche VM.
+
+* [Create an EVM Subnet on Local](https://docs.avax.network/subnets/create-a-local-subnet)
+
+* [Create an EVM Subnet on Fuji Testnet](https://docs.avax.network/subnets/create-a-fuji-subnet)
+
+Avalanche also supports creating custom blockchains with virtual machines.
+
+* [ Create a Virtual machine (VM)](https://docs.avax.network/subnets/create-a-virtual-machine-vm)
+
+* [Create a Custom Blockchain](https://docs.avax.network/subnets/create-custom-blockchain)
 
