@@ -42,8 +42,6 @@ Avalanche's smart contracts platform supports both [decentralized applications (
 
 Avalanche is a DAG-optimized consensus protocol–high-throughput, parallelizable, and simple to prune.
 
-[An Image of AVAX Consensus](avax_finality.png)
-
 ------------------------------------------------------------------------
 
 ## Differences Between Avalanche C-Chain and Ethereum
