@@ -87,6 +87,15 @@ Avalanche believes in building a “calm technology” that is powerful, but pre
 With Avalanche, staked tokens are never at risk of a faulty network crackdown.
 
 --------------------------------------------------------------------------
+
+## Staking Parameters on Avalanche
+When a validator is done validating the [Primary Network](https://support.avax.network/en/articles/4135650-what-is-the-primary-network), it receives back the AVAX tokens it staked. It may receive a reward for helping to secure the network. A validator only receives a [validation reward](https://support.avax.network/en/articles/4587396-what-are-validator-staking-rewards) if it is sufficiently responsive and correct during the time it validates. Read the Avalanche token [whitepaper](https://www.avalabs.org/whitepapers) to learn more about AVAX and the mechanics of staking.
+
+# Warning
+*Staking rewards are sent to your wallet address at the end of the staking term as long as all of these parameters are met.
+
+---------------------------------------------------------------------------
+
 ## Subnets
 
 Avalanche features 3 built-in blockchains: Exchange Chain (X-Chain), Platform Chain (P-Chain), and Contract Chain (C-Chain). All 3 blockchains are [validated](https://support.avax.network/en/articles/4064704-what-is-a-blockchain-validator) and secured by the [Primary Network](https://support.avax.network/en/articles/4135650-what-is-the-primary-network). The Primary Network is a special subnet, and all members of all custom subnets must also be a member of the Primary Network by staking at least 2,000 AVAX.
