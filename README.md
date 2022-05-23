@@ -70,7 +70,7 @@ A block with a timestamp more than 10 seconds in the future will not be consider
 
 -------------------------------------------------------------------------
 
-## How does staking work on Avalanche?
+## Staking on Avalanche
 
 Staking is a natural mechanism for participation in an open network and offers a direct economic argument: the probability of success of an attack is directly proportional to a well-defined monetary cost function. Staking nodes are economically motivated to act virtuously and avoid behavior that might hurt the value of their stake.
 
