@@ -92,7 +92,7 @@ With Avalanche, staked tokens are never at risk of a faulty network crackdown.
 When a validator is done validating the [Primary Network](https://support.avax.network/en/articles/4135650-what-is-the-primary-network), it receives back the AVAX tokens it staked. It may receive a reward for helping to secure the network. A validator only receives a [validation reward](https://support.avax.network/en/articles/4587396-what-are-validator-staking-rewards) if it is sufficiently responsive and correct during the time it validates. Read the Avalanche token [whitepaper](https://www.avalabs.org/whitepapers) to learn more about AVAX and the mechanics of staking.
 
 # Warning
-*Staking rewards are sent to your wallet address at the end of the staking term as long as all of these parameters are met.
+`Staking rewards are sent to your wallet address at the end of the staking term as long as all of these parameters are met`.
 
 ---------------------------------------------------------------------------
 
