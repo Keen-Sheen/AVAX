@@ -51,7 +51,9 @@ Avalanche is a DAG-optimized consensus protocol–high-throughput, parallelizabl
 As a network composed of multiple blockchains, Avalanche uses *atomic transactions* to move assets between chains. Coreth modifies the Ethereum block format by adding an *ExtraData* field, which contains the atomic transactions.
 
 ### Tokens on the C-Chain
+
 ## AVAX
+
 AVAX plays the same role on the C-Chain that ETH does on the Ethereum Network. When you create or call a smart contract, you pay the transaction fee (gas cost) with AVAX. You can transfer AVAX between accounts and send AVAX to a smart contract using native EVM tools and libraries.
 
 ### Avalanche Native Tokens (ANTs)
@@ -68,6 +70,23 @@ A block with a timestamp more than 10 seconds in the future will not be consider
 
 -------------------------------------------------------------------------
 
+## How does staking work on Avalanche?
+
+Staking is a natural mechanism for participation in an open network and offers a direct economic argument: the probability of success of an attack is directly proportional to a well-defined monetary cost function. Staking nodes are economically motivated to act virtuously and avoid behavior that might hurt the value of their stake.
+
+A node wishing to enter the network can freely do so by first putting up and locking a stake that cannot be moved for a defined period of time determined by the token holder. Once accepted, a stake cannot be reverted or unlocked to ensure that nodes share the same, stable view of the network. And better yet, for both the token holder and the network, is that this stake does not incur any additional upkeep costs.
+
+Unlike other systems that also propose a proof-of-stake (PoS) mechanism, AVAX does not use slashing, and therefore, all stake is returned when the staking period expires.
+
+Slashing is a protocol-driven action where a validator is forced to forfeit a proportion of its staked tokens because of behavior the network reads as dishonest or malfunctioning. These penalties are imposed without any human intervention and can be carried out for something as honest as a power failure taking a node offline.
+
+There’s been significant debate around slashing, but the reality is that it makes staking unpredictable (which could discourage participation) and is more effective at punishing innocent bugs in client software or hardware than any security assurances.
+
+Avalanche believes in building a “calm technology” that is powerful, but predictable. A technology engineered for the challenges of the real-world, rather than overconfident in its adherence to perfect conditions.
+
+With Avalanche, staked tokens are never at risk of a faulty network crackdown.
+
+--------------------------------------------------------------------------
 ## Subnets
 
 Avalanche features 3 built-in blockchains: Exchange Chain (X-Chain), Platform Chain (P-Chain), and Contract Chain (C-Chain). All 3 blockchains are [validated](https://support.avax.network/en/articles/4064704-what-is-a-blockchain-validator) and secured by the [Primary Network](https://support.avax.network/en/articles/4135650-what-is-the-primary-network). The Primary Network is a special subnet, and all members of all custom subnets must also be a member of the Primary Network by staking at least 2,000 AVAX.
